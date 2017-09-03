@@ -17,6 +17,10 @@ Add the service provider to `config/app.php`
 ]
 ```
 
+## Macros
+
+List of useable macros
+
 ### noPreserveReverse
 
 Consider the following:
