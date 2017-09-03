@@ -3,7 +3,7 @@
     "description": "a useful set of collection macros for laravel",
     "type": "library",
     "require": {
-        "illuminate/support": "~5.*"
+        "illuminate/support": "5.*"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.3"
