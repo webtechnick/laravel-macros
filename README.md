@@ -2,6 +2,21 @@
 
 A useful set of macros for laravel's collection.
 
+## Install
+
+Install via composer
+
+`composer require webtechnick/laravel-macros`
+
+Add the service provider to `config/app.php`
+
+```
+'providers' => [
+    // ...
+    WebTechNick\LaravelMacros\LaravelMacroServiceProvider::class,
+]
+```
+
 ### noPreserveReverse
 
 Consider the following:
